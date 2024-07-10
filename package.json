@@ -26,5 +26,8 @@
     "eslint": "^3.17.1",
     "eslint-config-loopback": "^8.0.0",
     "nsp": "^3.2.1"
+  },
+  "prettier": {
+    "singleQuote": true
   }
 }
